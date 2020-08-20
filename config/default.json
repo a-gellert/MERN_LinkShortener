@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecretKey": "smells like teen spirit",
+    "mongoUri": "mongodb+srv://gellert:35q03w40E@cluster0.hbqnv.azure.mongodb.net/app?retryWrites=true&w=majority"
+}
